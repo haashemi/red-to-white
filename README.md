@@ -8,7 +8,7 @@ This project (less than 50 lines, lol) is made just to convert Fortnite's materi
 - Run the application using `go run .`
 - Get the converted files from the `./export` folder.
 
-## What I learned from this?
+## What have I learned from this?
 
 **NEVER EVER** use _RGBA_ again if you're gonna encode it as _PNG_.
 

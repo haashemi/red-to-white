@@ -1,0 +1,4 @@
+github.com/haashemi/painter v0.0.2-0.20231207104338-91683803b574 h1:W1JMB1tDtrtKSJyQHYtyOoEBUHaCFot6Cdtuz6/9gbs=
+github.com/haashemi/painter v0.0.2-0.20231207104338-91683803b574/go.mod h1:jLayxUMTpKGk/Op1axYiAsx//PqO45NRKEy7SVdlxwQ=
+golang.org/x/image v0.14.0 h1:tNgSxAFe3jC4uYqvZdTr84SZoM1KfwdC9SKIFrLjFn4=
+golang.org/x/image v0.14.0/go.mod h1:HUYqC05R2ZcZ3ejNQsIHQDQiwWM4JBqmm6MKANTp4LE=
